@@ -1,6 +1,6 @@
 let handler = async (m, { conn, text, usedPrefix, command }) => {
 
-conn.sendImageAsSticker(m.chat, pickRandom(stikerhuuu), m, { packname: "sticker by", author: "ArullOfc" })
+conn.sendImageAsSticker(m.chat, pickRandom(stikerhuuu), m, { packname: "sticker by", author: "YannTuru" })
 }
 
 handler.customPrefix = /^(huuu|Paan|paan|Ajg|Anj|Kntll|Iya|Iy|Y|kntll|anj|ajg|anjir|Anjir|Okee|AWOKAWOAK|JANGAN DIPENCET)$/i
