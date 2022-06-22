@@ -707,9 +707,9 @@ module.exports = {
                             pp = await this.profilePictureUrl(user, 'image')
                         } catch (e) {
                         } finally {
-                            text = (action === 'add' ? (chat.sWelcome || this.welcome || conn.welcome || 'Yah,si Beban Masuk Grup').replace('@subject', groupMetadata.subject).replace('@desc', groupMetadata.desc.toString()) :
+                            text = (action === 'add' ? (chat.sWelcome || this.welcome || conn.welcome || 'Hay Deck 🗿👋').replace('@subject', groupMetadata.subject).replace('@desc', groupMetadata.desc.toString()) :
                                 (chat.sBye || this.bye || conn.bye || 'Sip, Beban Berkurang 1'))
-                                this.sendButtonImg(id, pp, text, "©ᴀʀᴜʟʟᴏꜰᴄ", "Okee", "wkwk", null)
+                                this.sendButtonImg(id, pp, text, "©𝚈𝚊𝚗𝚗 𝚃𝚞𝚛𝚞", "Apa Deck 🗿?", "wkwk", null)
                                 }
                     }
                 }
@@ -747,8 +747,8 @@ Untuk mematikan fitur ini, ketik
 
 global.dfail = (type, m, conn) => {
     let msg = {
-        rowner: '*Perintah ini Khusus ArullOfc*',
-        owner: '*Perintah ini Khusus ArullOfc*',
+        rowner: '*Perintah ini Khusus Owner ! *',
+        owner: '*Lu Owner Deck 🗿?*',
         mods: '*Perintah ini hanya dapat digunakan oleh* _*Moderator*_ !',
         premium: '*Perintah ini hanya untuk member* _*Premium*_ !',
         group: '*Perintah ini hanya dapat digunakan di grup!*',
