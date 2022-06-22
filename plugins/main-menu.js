@@ -499,7 +499,7 @@ const template = generateWAMessageFromContent(m.key.remoteJid, proto.Message.fro
             hydratedFooterText: wm2, 
             hydratedButtons: [{
             urlButton: {
-               displayText: 'YOUTUBE ME',
+               displayText: 'REFERAL CODE',
                url: web
              }
 
