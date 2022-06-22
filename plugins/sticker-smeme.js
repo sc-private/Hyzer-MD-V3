@@ -12,7 +12,7 @@ let handler = async (m, { conn, text, usedPrefix, command }) => {
     conn.sendImageAsSticker(m.chat, meme, m, { packname: packname, author: author })
 
 }
-handler.help = ['stickermeme <teks>|<teks>']
+handler.help = ['smeme <teks>|<teks>']
 handler.tags = ['sticker']
 handler.command = /^(s(tic?ker)?me(me)?)$/i
 
