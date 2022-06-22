@@ -13,7 +13,7 @@ let text = `
 `
 const templateButtons = [
     {index: 1, urlButton: {displayText: '✨ CREDITS', url: psaweria}},
-    {index: 2, urlButton: {displayText: '📷 INSTAGRAM', url: sig}},
+    {index: 2, urlButton: {displayText: '📡 REFERAL CODE', url: sig}},
     {index: 3, urlButton: {displayText: '🌎 GROUP BOT', url: sgc}},
     {index: 4, quickReplyButton: {displayText: 'MENU', id: '.menu'}},
     {index: 5, quickReplyButton: {displayText: 'OWNER', id: '.owner'}},
