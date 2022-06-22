@@ -14,7 +14,7 @@ global.gopay = ''
 
 //=============『 Info Bot 』=================//
 global.namebot = 'Yann Turu'
-global.gc = 'https://chat.whatsapp.com/B9cQxA0NWrXHtFclMS5awJ
+global.gc = 'https://chat.whatsapp.com/B9cQxA0NWrXHtFclMS5awJ'
 global.web = 'https://toss.vn/s/rlqSFBzn' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.price1 = 'Permanen 15.000\n1 bulan 10.000\n2 Minggu 7.000\n1 Minggu 5.000'
 
