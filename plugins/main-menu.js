@@ -296,7 +296,7 @@ const template = generateWAMessageFromContent(m.key.remoteJid, proto.Message.fro
             description: menuu,
             buttonText: 'LIST MENU',
             listType: 1,
-            footerText: "⬣━〔Powered By ©ArullOfc〕━⬣\n       ▌│█║▌║▌║║▌║▌║█│▌",
+            footerText: "⬣━〔Created By : Yann | Turu 〕━⬣\n       ▌│█║▌║▌║║▌║▌║█│▌",
             mtype: 'listMessage',
             sections: [
               {
@@ -520,7 +520,7 @@ const template = generateWAMessageFromContent(m.key.remoteJid, proto.Message.fro
            },
                {
              quickReplyButton: {
-               displayText: 'RULES ARULLBOTZMD',
+               displayText: 'RULES YannTuruBotMD',
                id: '.rules',
              }
 
