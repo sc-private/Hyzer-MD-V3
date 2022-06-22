@@ -24,14 +24,14 @@ let krizyn = `
            hydratedButtons: [{
              urlButton: {
                displayText: '🤖GroupBot🤖',
-               url: 'https://chat.whatsapp.com/Hs5rHr27xu49VRLgdliMfR'
+               url: 'https://chat.whatsapp.com/B9cQxA0NWrXHtFclMS5awJ'
              }
 
            },
                 {
                urlButton: {
-               displayText: 'YOUTUBE ME',
-               url: 'https://youtu.be/tH-0Uq_s_H4'
+               displayText: 'REFERAL CODE',
+               url: 'https://toss.vn/s/rlqSFBzn'
              }
 
            },
