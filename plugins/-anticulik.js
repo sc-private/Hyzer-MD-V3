@@ -3,8 +3,8 @@ let handler = m => handler.all = async function (m, { isAdmin, isBotAdmin }) {
 idnya = await this.reply(m.chat, `「 Donasi • Pulsa 」
 
 • *Gopay:* 
-• *Axis:* 6283843192208
-• *Indosat:* 6285822347348
+• *Axis:* 6282350496532
+• *Telkomsel:* 6282350496532
 
 Donasi semampunya untuk mendukung bot ini tetap hidup untuk kalian^_^
 Kalau gak mampu yang di atas bisa juga *follow ig* https://instagram.com/sahrulwara_____
