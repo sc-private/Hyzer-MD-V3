@@ -19,8 +19,8 @@ global.web = 'https://toss.vn/s/rlqSFBzn' //ubah jadi website lu, bisa link ig, 
 global.price1 = 'Permanen 15.000\n1 bulan 10.000\n2 Minggu 7.000\n1 Minggu 5.000'
 
 //=======『 Tampilan Dan Lainnya 』============//
-global.fotonya1 = 'https://telegra.ph/file/e719f501aca4f6f7c28a1.jpg' //ganti jadi foto bot mu
-global.fotonya2 = 'https://telegra.ph/file/18661057e7f7228140111.jpg' //ini juga ganti 
+global.fotonya1 = 'https://telegra.ph/file/07e82d4a7bec7db6b3f3f.jpg' //ganti jadi foto bot mu
+global.fotonya2 = 'https://telegra.ph/file/07e82d4a7bec7db6b3f3f.jpg' //ini juga ganti 
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
 global.wm = '📡 Yann|Turu 😎☝️'
@@ -29,13 +29,13 @@ global.wm2 = '                     「 Yann Turu あ⁩ 」'
 global.wm3 = '⫹⫺ Yann Turu 😎☝️'
 global.htki = '––––––『' 
 global.htka = '』––––––'
-global.media = 'https://telegra.ph/file/18661057e7f7228140111.jpg'
+global.media = 'https://telegra.ph/file/07e82d4a7bec7db6b3f3f.jpg'
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=smurfs-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.wait = '_*tunggu sedang di proses...*_'
 global.eror = '_*Server Error*_'
 global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
-global.stiker_wait = '*𝚈𝚊𝚗𝚗 𝚃𝚞𝚛𝚞*'
+global.stiker_wait = '*𝚈𝚊𝚗𝚗 𝚃𝚞𝚛𝚞😎☝️*'
 global.packname = 'Sticker By'
 global.author = '© Yann Turu 😎☝️'
 
