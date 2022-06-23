@@ -13,18 +13,18 @@ let moment = require('moment-timezone')
 //━━━━━━━━[ DEFAULT MENU ]━━━━━━━━//
 const defaultMenu = {
   before:`
-╔═════❏ INFO USER
-╠➪ Hai, %name!
+╔═════❏ *INFO USER*
+╠➪ Hai, *%name!*
 ╠➪ Limit : *%limit Limit*
 ╠➪ Role : *%role*
 ╠➪ Level : *%level (%exp / %maxexp)*
-╠➪ Exp LevelUp : [%ep4levelup]
-╠➪ Total Exp : %totalexp Xp Secara Total
+╠➪ Exp LevelUp : *[ %ep4levelup ]*
+╠➪ Total Exp : *%totalexp Xp Secara Total*
 ╚═════════════════════❏
 
 ⏣═════════ ❃ ═════════⏣
 
-╔═════❏ TANGGAL 
+╔═════❏ *TANGGAL*
 ╠➪ Tanggal : *%week %weton, %date*
 ╠➪ Tanggal Islam : *%dateislamic*
 ╠➪ Waktu : *%time*
@@ -32,9 +32,9 @@ const defaultMenu = {
 
 ⏣═════════ ❃ ═════════⏣
 
-╔═════❏ INFO BOT
+╔═════❏ *INFO BOT*
 ╠➪ Uptime: *%uptime (%muptime)*
-╠➪ Database: %rtotalreg dari %totalreg
+╠➪ Database: *%rtotalreg dari %totalreg*
 ╠➪ Memory Used : *${(process.memoryUsage().heapUsed / 1024 / 1024).toFixed(2)}MB / ${Math.round(require('os').totalmem / 1024 / 1024)}MB*
 ╚═════════════════════❏
 
