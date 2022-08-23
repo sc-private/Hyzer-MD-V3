@@ -4,17 +4,17 @@ global.mods = []
 global.prems = [''] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'Yann | Turu'
+global.nameowner = 'Rყαɳɳ-'
 global.numberowner = '6282252285143'
-global.instagram = 'Gda Banh 😎☝️'
+global.instagram = '-'
 global.github = 'https://github.com/RyanStore'
 global.dana = '082350496532'
 global.pulsa = '082252285143,082350496532'
 global.gopay = ''
 
 //=============『 Info Bot 』=================//
-global.namebot = 'Yann Turu'
-global.gc = 'https://chat.whatsapp.com/B9cQxA0NWrXHtFclMS5awJ'
+global.namebot = 'ყαɳɳ-BOT'
+global.gc = 'https://chat.whatsapp.com/Eg4Rhkq0NBtBMWyhk1IOnb'
 global.web = 'https://toss.vn/s/rlqSFBzn' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.price1 = 'Permanen 15.000\n1 bulan 10.000\n2 Minggu 7.000\n1 Minggu 5.000'
 
@@ -25,8 +25,8 @@ global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
 global.wm = '📡 Yann|Turu 😎☝️'
 global.watermark = wm
-global.wm2 = '                     「 Yann Turu あ⁩ 」'
-global.wm3 = '⫹⫺ Yann Turu 😎☝️'
+global.wm2 = '                     「 Rყαɳɳ- あ⁩ 」'
+global.wm3 = '⫹⫺ Rყαɳɳ-😎☝️'
 global.htki = '––––––『' 
 global.htka = '』––––––'
 global.media = 'https://telegra.ph/file/07e82d4a7bec7db6b3f3f.jpg'
@@ -35,9 +35,9 @@ global.wait = '_*tunggu sedang di proses...*_'
 global.eror = '_*Server Error*_'
 global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
-global.stiker_wait = '*𝚈𝚊𝚗𝚗 𝚃𝚞𝚛𝚞😎☝️*'
+global.stiker_wait = '*.....*'
 global.packname = 'Sticker By'
-global.author = '© Yann Turu 😎☝️'
+global.author = '© YannBotz'
 
 //=============『 Apikey 』================== //
 global.APIs = { // API Prefix
